@@ -27,7 +27,7 @@ It provides a space for sharing experiences, asking doubts, and building connect
 1. Open `login.html` in any browser.  
 2. Login credentials:  
    - **Admin** → `sjconnect@gmail.com` / `sj`  
-   - **User** → `23mh1a42g7@acoe.edu.in` / `123`  
+   - **User** → `student@gmail.com` / `123`  
 3. Explore all sections: Home, About, DoubtBox, Experience Wall.
 
 ## 🔗 Live Demo 
