@@ -31,7 +31,7 @@ It provides a space for sharing experiences, asking doubts, and building connect
 3. Explore all sections: Home, About, DoubtBox, Experience Wall.
 
 ## 🔗 Live Demo 
-https://scintillating-starlight-bcfd36.netlify.app/
+https://classy-blini-1ce038.netlify.app/
 
 ## 👨‍💻 Author  
 **Srikar Jayanthi** 
